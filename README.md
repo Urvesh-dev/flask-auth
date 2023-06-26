@@ -13,3 +13,12 @@ Python-3.10.0
 - export FLASK_APP=app
 
 - flask run
+
+
+# Working endpoints
+-------------------------
+- /
+- /profile
+- /login
+- /register
+- /logout
